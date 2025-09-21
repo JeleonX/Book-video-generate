@@ -11,6 +11,3 @@ asyncio==3.4.3
 
 # 路径处理
 pathlib==1.0.1
-
-# 系统工具
-subprocess==0.2.0
